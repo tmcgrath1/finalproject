@@ -29,11 +29,10 @@ h2 {
 }
 
 #topnav li {
-    display: inline; 
-    margin: 5px;
-    text-align: 15px; color: #ffffff;  
-    float: right;    
-
+    display: inline;   
+    text-align: 15px;
+    margin: 5px;  
+    float: right;
 }
 
 #nav li {
@@ -85,7 +84,6 @@ a {
   height: 75px;
   width: 100%;
 }
-
 
 
 
