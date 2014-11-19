@@ -21,18 +21,27 @@ body {
 h1 {
     color: #ffffff;
     font-size: 140%;
+    position: relative;
+    padding: 10px;
+    padding-top:20px;
+    margin: 15px;
 }
 
 h2 {
     color: #ffffff;
     font-size: 140%;
+    float: left;
+    margin: 10px;
+   
 }
 
 #topnav li {
-    display: inline;   
-    text-align: 15px;
-    margin: 5px;  
-    float: right;
+    display: inline;
+    position: fixed; 
+    float: right;       
+    top: 10px;
+    right: 50px;
+   
 }
 
 #nav li {
@@ -51,6 +60,10 @@ a {
 #search {
   vertical-align: middle;
   height: center;
+  position: relative;
+  float: right;
+  padding-right: 0px;
+  
 }
 
 #img {
@@ -76,13 +89,15 @@ a {
    margin-right: 100px;
 }
 
-
-
 #foot {
   position: relative, center;
   background: #c8102e; 
   height: 75px;
   width: 100%;
+}
+
+#twitter {
+  float: right;
 }
 
 
