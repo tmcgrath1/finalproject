@@ -19,7 +19,8 @@ h1 {
     color: #ffffff;
     font-size: 140%;   
     position: relative;
-    padding: 8px;    
+    padding: 8px;   
+    
 }
 
 h2 {
@@ -29,7 +30,7 @@ h2 {
 }
 
 #topnav li {
-    display: inline;
+    display: inline-block;
     position: absolute;
     top: 10px;
     right: 15px;   
@@ -38,19 +39,17 @@ h2 {
 #nav li {
   display: inline;
   margin: 5px;
-  line-height: .05;
-  text-align: center;
+  margin-right: 75px;
  }
 
-#search {
-  float: right;
-}
+
 
 a {
     height: 50px;
     width: 70px;
     background-color: #c8102e;
     color: #ffffff;
+    text-decoration: none;
 }
 
 
@@ -73,22 +72,19 @@ a {
   float: left;
   top: 0%;
   text-align: inline-box;
-   
-   border: 5px solid #c8102e;
-   margin: 5px;
-   margin-right: 10px;
-   margin-top: 75px;
+  border: 5px solid #c8102e;
+  margin-left: 10px;
+  margin-top: 75px;
+  width: 45%;
 }
 
 
 #news {
-   float: left;
   top: 50px;
   text-align: inline-box;
-  width: 97%;
+  width: 45%;
   border: 5px solid #c8102e;
-  margin-top: 50px;
-  margin-right: 10px;
+  margin-top: 25%;
   margin-left: 10px; 
 }
 
@@ -99,7 +95,7 @@ a {
 
 #vid {
  float: right;
- margin-top: -550px;
+ 
  padding-right: 50px;
 }
 
