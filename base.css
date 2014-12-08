@@ -17,31 +17,39 @@ body {
 
 h1 {
     color: #ffffff;
-    font-size: 140%;   
+    font-size: 190%;   
     position: relative;
     padding: 8px;   
+    text-align: center;
     
 }
 
 h2 {
-    font-size: 140%;  
+    font-size: 120%;  
     padding: 8px; 
     margin-top: -20px; 
+    text-align: center;
 }
 
 #topnav li {
     display: inline-block;
     position: absolute;
     top: 10px;
-    right: 15px;   
+    right: 15px;  
+    margin-right: 2.25%;
 }
 
 #nav li {
   display: inline;
   margin: 5px;
   margin-right: 75px;
+  text-align: center;
  }
 
+#nav {
+  margin-left: 67%;
+  
+}
 
 
 a {
@@ -62,8 +70,8 @@ a {
 #ctit {
   text-decoration: color: black;
   font-size: 140%;
-  margin-left: 130px;
-  margin-top: 20px;
+  margin-left: 19%;
+  margin-top: 15px;
   position: absolute;
   
 }
@@ -74,7 +82,7 @@ a {
   text-align: inline-box;
   border: 5px solid #c8102e;
   margin-left: 10px;
-  margin-top: 75px;
+  margin-top: 40px;
   width: 45%;
 }
 
@@ -84,20 +92,40 @@ a {
   text-align: inline-box;
   width: 45%;
   border: 5px solid #c8102e;
-  margin-top: 25%;
+  margin-top: 22%;
   margin-left: 10px; 
 }
 
 #newst {
   text-decoration: color: black;
   font-size: 140%;
+  margin-left: 18%;
+  margin-top: -30px;
+  position: absolute;
 }
 
 #vid {
  float: right;
+ padding-right: 25px;
+ margin-top: -33%;
  
- padding-right: 50px;
 }
+
+#foot {
+  background: #c8102e;
+  margin-left: -612px;
+  margin-right: -40px;
+  padding-bottom: 50px; 
+  height: 60px;
+  
+}
+
+h3 {
+  font-size: 300%;
+  text-align: center;
+  
+}
+
 
 
 
@@ -106,8 +134,22 @@ a {
 header#page-title h1 {color:#000000;
 text-align: Left;}
 
+
+  #nav2 li {
+  display: inline;
+  margin: 5px;
+  margin-right: 75px;
+  text-align: center;
+ }
+
+#nav2 {
+  margin-left: 57.63%;
+  
+}
+
 #howi {
-  font-size: 300%;
+position: ;
+  font-size: 280%;
   padding-left: 38%;  
 }
 
@@ -148,6 +190,23 @@ text-align: Left;}
   
 /*-----------------------------takeclass-----------------------*/
 
+#nav3 li {
+  display: inline;
+  margin: 5px;
+  margin-right: 75px;
+  text-align: center;
+ }
+
+#nav3 {
+  margin-left: 63.8%;
+  
+}
+
+
+
+
+
+
 #class {
    
   top: 50px;
@@ -160,6 +219,23 @@ text-align: Left;}
 }
 
 /*-------------------------contact-------------------------*/
+
+
+
+
+#nav4 li {
+  display: inline;
+  margin: 5px;
+  margin-right: 75px;
+  text-align: center;
+ }
+
+#nav4 {
+  margin-left: 64%;
+  
+}
+
+
 
 #contable {
 
