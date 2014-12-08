@@ -188,6 +188,24 @@ position: ;
   margin-right: 5px;
   }
   
+#foot2 {
+  background: #c8102e;
+  padding-bottom: 50px; 
+  height: 60px;
+  margin-top: 45%;
+  
+}
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
 /*-----------------------------takeclass-----------------------*/
 
 #nav3 li {
@@ -202,11 +220,6 @@ position: ;
   
 }
 
-
-
-
-
-
 #class {
    
   top: 50px;
@@ -217,6 +230,16 @@ position: ;
   margin-right: 10px;
   margin-left: 10px;
 }
+
+#foot3 {
+  background: #c8102e;
+  padding-bottom: 50px; 
+  height: 60px;
+  
+}
+
+
+
 
 /*-------------------------contact-------------------------*/
 
@@ -231,8 +254,7 @@ position: ;
  }
 
 #nav4 {
-  margin-left: 64%;
-  
+  margin-left: 64%;  
 }
 
 
@@ -241,7 +263,9 @@ position: ;
 
   width: 97%;
   border: 5px solid #c8102e; 
-  margin-left: 15px;
+  margin-left: 10px;
+  
+  height: 35%;
 
 }
 
@@ -249,12 +273,14 @@ position: ;
     text-decoration: color: black;
   font-size: 140%;
   text-align: center;
-  margin-left: 45%;
-  
-  
+  margin-left: 45%; 
 }
 
-
+#foot4 {
+  background: #c8102e;
+  padding-bottom: 50px; 
+  height: 60px; 
+}
 
 
 
