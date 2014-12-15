@@ -117,7 +117,6 @@ a {
   margin-right: -40px;
   padding-bottom: 50px; 
   height: 60px;
-  text-align: center;
   
 }
 
@@ -282,7 +281,6 @@ position: ;
   padding-bottom: 50px; 
   height: 60px; 
 }
-
 
 
 
